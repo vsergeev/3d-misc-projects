@@ -19,4 +19,6 @@ Inkscape was used to separate the eagle from the background in the original logo
 
 **Recommended Print Settings:** 0.20mm layer height, 20% infill, filament change at 5mm Z
 
+**Thingiverse:** https://www.thingiverse.com/thing:3336427
+
 **License:** [See USPS for Allowed Uses](https://about.usps.com/doing-business/rights-permissions/common-use-trademarks-copyrights.htm)
