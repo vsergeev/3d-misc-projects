@@ -25,4 +25,6 @@ A demonstration of a lead screw machine.
 
 **Recommended Print Settings:** 0.20mm layer height, 20% infill
 
+**Thingiverse:** https://www.thingiverse.com/thing:3336456
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
