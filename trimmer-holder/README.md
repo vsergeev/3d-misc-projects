@@ -15,4 +15,6 @@ A simple tray and attachments holder for a beard trimmer.
 
 **Recommended Print Settings:** 0.20mm layer height, 20% infill
 
+**Thingiverse:** https://www.thingiverse.com/thing:3334423
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
