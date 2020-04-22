@@ -1,5 +1,14 @@
 # Miscellaneous 3D Printable Projects
 
+## [Belt Demo](belt-demo/) (04/2020)
+
+<table>
+<tr>
+<td><a href="belt-demo/"><img src="belt-demo/images/rendering1.thumb.png" alt="Rendering 1"/></a></td>
+<td><a href="belt-demo/"><img src="belt-demo/images/photo.thumb.jpg" alt="Rendering 2"/></a></td>
+</tr>
+</table>
+
 ## [Lead Screw Demo](lead-screw-demo/) (09/2018)
 
 <table>
