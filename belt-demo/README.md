@@ -9,6 +9,9 @@
 <td><a href="images/rendering2.png"><img src="images/rendering2.thumb.png" alt="Rendering 2"/></a></td>
 <td><a href="images/internals.png"><img src="images/internals.thumb.png" alt="Internals"/></a></td>
 </tr>
+<tr>
+<td><a href="images/rendering3.png"><img src="images/rendering3.thumb.png" alt="Rendering 3"/></a></td>
+</tr>
 </table>
 
 A demonstration of linear motion with a carrier, GT2 timing belt, driving pulley, and an idler pulley. Uses the [parametric GT2 pulley](https://github.com/vsergeev/3d-gears/tree/master/parametric-gt2-pulley) component. Includes a built-in screw tensioner on the idler pulley. GT2 timing belt should be 2mm pitch, 6mm wide, and about 20cm long.
