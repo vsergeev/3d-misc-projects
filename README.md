@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td><a href="belt-demo/"><img src="belt-demo/images/rendering1.thumb.png" alt="Rendering 1"/></a></td>
-<td><a href="belt-demo/"><img src="belt-demo/images/photo.thumb.jpg" alt="Rendering 2"/></a></td>
+<td><a href="belt-demo/"><img src="belt-demo/images/photo1.thumb.jpg" alt="Photo 1"/></a></td>
 </tr>
 </table>
 
