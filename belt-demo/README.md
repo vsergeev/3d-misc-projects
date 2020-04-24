@@ -3,14 +3,15 @@
 <table>
 <tr>
 <td><a href="images/rendering1.png"><img src="images/rendering1.thumb.png" alt="Rendering 1"/></a></td>
-<td><a href="images/photo.jpg"><img src="images/photo.thumb.jpg" alt="Photo"/></a></td>
-</tr>
-<tr>
 <td><a href="images/rendering2.png"><img src="images/rendering2.thumb.png" alt="Rendering 2"/></a></td>
-<td><a href="images/internals.png"><img src="images/internals.thumb.png" alt="Internals"/></a></td>
 </tr>
 <tr>
+<td><a href="images/internals.png"><img src="images/internals.thumb.png" alt="Internals"/></a></td>
 <td><a href="images/rendering3.png"><img src="images/rendering3.thumb.png" alt="Rendering 3"/></a></td>
+</tr>
+<tr>
+<td><a href="images/photo1.jpg"><img src="images/photo1.thumb.jpg" alt="Photo"/></a></td>
+<td><a href="images/photo2.jpg"><img src="images/photo2.thumb.jpg" alt="Photo"/></a></td>
 </tr>
 </table>
 
