@@ -17,7 +17,7 @@
 
 A demonstration of linear motion with a carrier, GT2 timing belt, driving pulley, and an idler pulley. Uses the [parametric GT2 pulley](https://github.com/vsergeev/3d-gears/tree/master/parametric-gt2-pulley) component. Includes a built-in screw tensioner on the idler pulley. GT2 timing belt should be 2mm pitch, 6mm wide, and about 22.5cm long.
 
-**Design**: [Belt Demo v54.f3d](Belt%20Demo%20v54.f3d) (Fusion 360 Archive)
+**Design**: [Belt Demo v58.f3d](Belt%20Demo%20v58.f3d) (Fusion 360 Archive)
 
 **Design**: https://a360.co/2UVFbJR (A360)
 
@@ -29,9 +29,9 @@ A demonstration of linear motion with a carrier, GT2 timing belt, driving pulley
   * [Idler Frame.stl](stl/Idler%20Frame.stl)
   * [Idler Axle.stl](stl/Idler%20Axle.stl)
   * [Tensioner Screw.stl](stl/Tensioner%20Screw.stl)
-  * [Shaft Handle.stl](stl/Shaft%20Handle.stl)
   * [Shaft.stl](stl/Shaft.stl)
-  * [GT2 Shaft Pulley.stl](stl/GT2%20Shaft%20Pulley.stl)
+  * [Shaft Handle.stl](stl/Shaft%20Handle.stl)
+  * [GT2 Driving Pulley.stl](stl/GT2%20Driving%20Pulley.stl)
   * [GT2 Idler Pulley.stl](stl/GT2%20Idler%20Pulley.stl)
   * [Carrier.stl](stl/Carrier.stl)
 
